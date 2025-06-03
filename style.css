@@ -13,13 +13,12 @@ body {
 
  main {
     background-image:url(img/Captura\ de\ tela\ 2025-06-02\ 105915.png);
-      background-attachment: fixed;
-      box-shadow:10px 10px 20px;
+    box-shadow:10px 10px 20px;
     width: 97%;
     text-align: center;
     padding: 20px;
     color: white;
-    font-size: 1.2em;
+
  }
  article {
     margin: 20px auto;
