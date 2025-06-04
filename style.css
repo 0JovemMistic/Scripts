@@ -114,6 +114,7 @@ main h1{
   text-align: center;
   border-radius: 20px;
   margin-bottom: 30px;
+  padding: 30px;
 
 } 
 main p {
@@ -128,6 +129,7 @@ width: 100%;
   text-align: center;
   border-radius: 20px;
   margin-bottom: 30px;
+  padding: 20px;
 }
 
 @keyframes gradiente {
