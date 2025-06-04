@@ -118,18 +118,9 @@ main h1{
 
 } 
 main p {
-width: 100%;
-  background: linear-gradient(-45deg, #489955, #cadf13, #bb17ca, #d62727);
-  background-size: 400% 400%;
-  animation: gradiente 5s ease infinite;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-  border-radius: 20px;
-  margin-bottom: 30px;
-  padding: 20px;
+text-align: center;
+color: white;
+padding: 10px;
 }
 
 @keyframes gradiente {
