@@ -104,7 +104,7 @@ footer a {
 main h1{
  
   width: 100%;
-  background: linear-gradient(-45deg, #2f723a, #2a5298, #5e139b, #a82d2d);
+  background: linear-gradient(-45deg, #fbff00, #ff0000, #6f00ff, #00ff0d);
   background-size: 400% 400%;
   animation: gradiente 5s ease infinite;
   display: flex;
